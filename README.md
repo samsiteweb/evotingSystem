@@ -4,6 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Steps to run this Project
+Clone the project (Read about how to clone a git repository.
+
+NPM INSTALL TO INSTALL ALL DEPENDENCIES
+
+then continue with the desicription below.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
